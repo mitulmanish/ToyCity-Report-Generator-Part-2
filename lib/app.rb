@@ -29,7 +29,7 @@ def setup
   padding
 end
 
-=begin
+
 def start
   setup
   write_file "DATE",Time.now.strftime("%m/%d/%Y")
@@ -86,7 +86,7 @@ def get_quantity (items,brand)
   end
   stock
 end
-
+=begin
 def brand?(brand, item)
   item["brand"] == brand
 end
