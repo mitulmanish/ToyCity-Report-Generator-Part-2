@@ -86,7 +86,7 @@ def get_quantity (items,brand)
   end
   stock
 end
-=begin
+
 def brand?(brand, item)
   item["brand"] == brand
 end
