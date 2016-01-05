@@ -1,0 +1,3 @@
+5dd0409 (HEAD -> master) Creating functions for report generation and other refactorings
+1d27388 Created new methods with single responsiblity
+a54eead Initial setup and json file reading

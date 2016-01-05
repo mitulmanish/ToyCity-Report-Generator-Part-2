@@ -161,10 +161,7 @@ def brands_report
   end
 end
 
-
-
-
-
+start
 
 
 # For each product in the data set:
@@ -175,7 +172,7 @@ end
 # Calculate and print the total amount of sales
 # Calculate and print the average price the toy sold for
 # Calculate and print the average discount based off the average sales price
-start
+
 
 
 
