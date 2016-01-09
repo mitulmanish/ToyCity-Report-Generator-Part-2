@@ -1,53 +1,47 @@
 
-DATE : 01/04/2016
-                     _            _       
-                    | |          | |      
- _ __  _ __ ___   __| |_   _  ___| |_ ___ 
-| '_ \| '__/ _ \ / _` | | | |/ __| __/ __|
-| |_) | | | (_) | (_| | |_| | (__| |_\__ \
-| .__/|_|  \___/ \__,_|\__,_|\___|\__|___/
-| |                                       
-|_|                                       
+DATE : 01/09/2016
+       PRODUCTS
 
 Title : LEGO Iron Man vs. Ultron
 Full Price : 22.99
 Brand : LEGO
-Total Purchases : 2
-Total Amount of Sales for LEGO Iron Man vs. Ultron : 36.98
-Average Selling Price : 18.49
-Average Discounted Percentage: : 19.57 %
----------------------------------------
+********************
 Title : Nano Block Empire State Building
 Full Price : 49.99
 Brand : Nano Blocks
-Total Purchases : 2
-Total Amount of Sales for Nano Block Empire State Building : 68.98
-Average Selling Price : 34.49
-Average Discounted Percentage: : 31.01 %
----------------------------------------
+********************
 Title : LEGO Firehouse Headquarters
 Full Price : 199.99
 Brand : LEGO
-Total Purchases : 2
+********************
+
+       SALES REPORT
+
+Total Purchases for LEGO Iron Man vs. Ultron : 2
+Total Amount of Sales for LEGO Iron Man vs. Ultron : 36.98
+Average Selling Price : 18.49
+Average Discounted Percentage: : 19.57 %
+********************
+Total Purchases for Nano Block Empire State Building : 2
+Total Amount of Sales for Nano Block Empire State Building : 68.98
+Average Selling Price : 34.49
+Average Discounted Percentage: : 31.01 %
+********************
+Total Purchases for LEGO Firehouse Headquarters : 2
 Total Amount of Sales for LEGO Firehouse Headquarters : 379.98
 Average Selling Price : 189.99
 Average Discounted Percentage: : 5.0 %
----------------------------------------
+********************
 
- _                         _     
-| |                       | |    
-| |__  _ __ __ _ _ __   __| |___ 
-| '_ \| '__/ _` | '_ \ / _` / __|
-| |_) | | | (_| | | | | (_| \__ \
-|_.__/|_|  \__,_|_| |_|  \__,_|___/
+       BRANDS
 
 Brand : LEGO
 Stock for LEGO : 55
 Average price for LEGO : 111.49
 Total revenue for LEGO : 416.96
----------------------------------------
+********************
 Brand : Nano Blocks
 Stock for Nano Blocks : 12
 Average price for Nano Blocks : 49.99
 Total revenue for Nano Blocks : 68.98
----------------------------------------
+********************
